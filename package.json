@@ -1,7 +1,7 @@
 {
   "name": "@riftgg/hello-world-npm",
-  "version": "0.0.1",
-  "description": "Trying github registry",
+  "version": "0.0.2",
+  "description": "Updated the description",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
